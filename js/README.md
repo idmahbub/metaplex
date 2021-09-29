@@ -3,7 +3,6 @@
 Be sure to be running Node v14.17.6 and yarn version 1.22.10.
 
 `yarn bootstrap`
-
 Then run:
 
 `yarn start`
